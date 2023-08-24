@@ -17,5 +17,5 @@ or Run by docker compose
 
 test
 
-Congradulations code Deplyoed successfully...!!!
+Congradulations !!!
 
